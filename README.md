@@ -67,7 +67,7 @@ With the contract deployed, you can interact with it by using the provided funct
 These steps will allow you to test and manage your token contract using Remix.
 
 ## Authors
-YASH GUPTA
+YASH GUPTA                                                                                                                
 @YASHGUPTA
 
 ## License
